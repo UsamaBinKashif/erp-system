@@ -7,3 +7,5 @@ It uses a **microservice-based architecture**, managed through **Turborepo**, wi
 
 Each service — such as Accounting, HR, Inventory, CRM, and Notifications — runs independently but communicates through **Pub/Sub** and shared ** schemas**.  
 Frontend and backend share DTOs and validation logic for a fully type-safe development experience.
+
+This repo will be based on Finance module of ERP System.
